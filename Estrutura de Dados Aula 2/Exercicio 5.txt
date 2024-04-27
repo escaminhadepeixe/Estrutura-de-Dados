@@ -1,0 +1,25 @@
+Inicialização da pilha:
+Pilha vazia
+
+Inserção da string "um":
+Pilha: "um"
+
+Inserção da string "dois":
+Pilha: "um" -> "dois"
+
+Inserção da string "tres":
+Pilha: "um" -> "dois" -> "tres"
+
+Remoção das strings da pilha:
+
+Desempilhando "tres":
+Pilha: "um" -> "dois"
+Saída: "tres"
+
+Desempilhando "dois":
+Pilha: "um"
+Saída: "dois"
+
+Desempilhando "um":
+Pilha vazia
+Saída: "um"
